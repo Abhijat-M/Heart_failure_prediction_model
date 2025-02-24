@@ -3,6 +3,8 @@
 ## Machine Learning Application in Critical Care
 Heart failure is a significant challenge in modern healthcare, demanding early detection and intervention to improve patient outcomes. This project presents a comprehensive research study employing machine learning methodologies to predict heart failure, aiming to enhance proactive healthcare measures.
 
+https://ieeexplore.ieee.org/document/10806601
+
 ### Overview
 In this study, we:
 - Conduct a **comparative analysis** of machine learning algorithms to predict heart failure.
